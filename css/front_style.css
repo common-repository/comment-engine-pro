@@ -1,0 +1,24 @@
+#cepTabContainer{
+	width: 100%;
+	background-color: #e3ecf3;
+	padding: 10px 0 10px 0;
+	text-align: center;
+}
+.cepTab{
+	width: 300px;
+	border-radius:5px;
+	font-size: 20px;
+	padding: 3px 10px 3px 10px;
+	cursor: pointer;
+	background-color: #a8cc45;
+}
+.cepTab:HOVER{
+	background-color: #90b4cf;
+}
+.cepTabSaperator{
+	padding: 1px;
+}
+.cepPanel{
+	width: 100%;
+	padding: 0 5% 0 5%; 
+}

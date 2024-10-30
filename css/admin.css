@@ -1,0 +1,14 @@
+
+body{
+	background-color: transparent !important;
+}
+#cepContainer{
+	width: 98%;
+	border: 1px solid #000000;
+	padding: 20px;
+	border-radius: 5px;
+	margin-top: 5px;
+}
+.cep_settings_saperator{
+	margin-left: 30px;
+}
